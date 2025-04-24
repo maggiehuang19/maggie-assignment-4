@@ -10,16 +10,40 @@
 </head>
 
 <body>
-  <div id ="title">Dining Out in Manhattan Community Board 3
-    <p>
-    Click on a marker to view a restaurant's license status.
-  </p>
+
+  <!-- Toggle Button -->
+  <button id="toggleSidebar">☰</button>
+
+  <!-- Sidebar (single instance) -->
+  <div id="sidebar" class="sidebar collapsed">
+    <h2>Filter Options</h2>
+    <ul>
+      <li><a href="#">All Restaurants</a></li>
+      <li><a href="#">License Issued</a></li>
+      <li><a href="#">License Pending</a></li>
+    </ul>
   </div>
 
-  <div id="map-container"></div>
+  <!-- Main Content -->
+  <div id="main">
+    <div id="title">
+      Dining Out in Manhattan Community Board 3
+      <p>Click on a marker to view a restaurant's license status.</p>
+    </div>
+    <div id="map-container"></div>
+  </div>
 
   <script src="https://api.mapbox.com/mapbox-gl-js/v3.11.0/mapbox-gl.js"></script>
   <script src="data.js"></script>
   <script src="scripts.js"></script>
+
+  <!-- Sidebar toggle script -->
+  <script>
+    document.getElementById('toggleSidebar').addEventListener('click', () => {
+      document.getElementById('sidebar').classList.toggle('collapsed');
+      document.getElementById('main').classList.toggle('expanded');
+    });
+  </script>
+</body>
 
 </html>
