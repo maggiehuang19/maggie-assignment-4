@@ -267,31 +267,38 @@ const cbBoundary = {
   properties: {},
 };
 
+
+// TO BE UPDATED with more restaurants, addresses, license statuses (issued, pending)
 const cbData = [
   {
-      "restaurant_name": "Whiskey Tavern",
-      "longitude": -73.999572,
-      "latitude": 40.716425
+    restaurant_name: "Whiskey Tavern",
+    longitude: -73.999572,
+    latitude: 40.716425,
+    address: "79 Baxter St, New York, NY 10013"
   },
   {
-      "restaurant_name": "Diaspora",
-      "longitude": -73.999494,
-      "latitude": 40.71685
+    restaurant_name: "Diaspora",
+    longitude: -73.999494,
+    latitude: 40.71685,
+    address: "67 Bayard St, New York, NY 10013"
   },
   {
-      "restaurant_name": "Bowery Meat Company",
-      "longitude": -73.991816,
-      "latitude": 40.724585
+    restaurant_name: "Bowery Meat Company",
+    longitude: -73.991816,
+    latitude: 40.724585,
+    address: "9 E 1st St, New York, NY 10003"
   },
   {
-      "restaurant_name": "Cafe Maud",
-      "longitude": -73.987314,
-      "latitude": 40.728605
+    restaurant_name: "Cafe Maud",
+    longitude: -73.987314,
+    latitude: 40.728605,
+    address: "100 E 7th St, New York, NY 10009"
   },
   {
-      "restaurant_name": "B&H Dairy",
-      "longitude": -73.988016,
-      "latitude": 40.7284226
+    restaurant_name: "B&H Dairy",
+    longitude: -73.988016,
+    latitude: 40.7284226,
+    address: "127 2nd Ave, New York, NY 10003"
   }
 ];
  

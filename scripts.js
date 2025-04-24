@@ -59,18 +59,20 @@ cbData.forEach(function(restaurant) {
   // Function to show the sidebar and populate it with restaurant info
   function showSidebar(restaurant) {
     // Show the sidebar (remove 'collapsed' class)
-    document.getElementById('sidebar').classList.remove('collapsed');
-    
-    // Populate the sidebar with restaurant info
-    document.getElementById('sidebar').innerHTML = `
+    const sidebar = document.getElementById('sidebar');
+    sidebar.classList.remove('collapsed');
+  
+    // Populate the sidebar with restaurant info including address
+    sidebar.innerHTML = `
       <h2>${restaurant.restaurant_name}</h2>
-      <p>Longitude: ${restaurant.longitude}</p>
-      <p>Latitude: ${restaurant.latitude}</p>
+      <p><strong>Address:</strong> ${restaurant.address || 'Not available'}</p>
+      <p><strong>Longitude:</strong> ${restaurant.longitude}</p>
+      <p><strong>Latitude:</strong> ${restaurant.latitude}</p>
       <button id="closeSidebar">Close</button>
     `;
-    
+  
     // Close the sidebar when the close button is clicked
     document.getElementById('closeSidebar').addEventListener('click', () => {
-      document.getElementById('sidebar').classList.add('collapsed');
+      sidebar.classList.add('collapsed');
     });
   }
