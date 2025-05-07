@@ -12,4 +12,4 @@ This mapping website serves as a one-stop shop for Community Board 3 to easily t
 
 Information about fully issued licenses can be found at https://diningout.nyc.gov/application/
 
-Information about complete & accurate applications that have been sent from DOT to Community Board 3 can be found at https://www.nyc.gov/site/manhattancb3/applications-guidelines/sla-30-day-notices-and-questionnaires.page
+Information about complete & accurate applications that have been sent from DOT to Community Board 3 can be found at https://www.nyc.gov/site/manhattancb3/applications-guidelines/sla-30-day-notices-and-questionnaires.page. This information is updated on a weekly basis.

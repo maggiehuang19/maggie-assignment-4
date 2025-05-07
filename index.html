@@ -30,11 +30,14 @@
       Dining Out in Manhattan Community Board 3
       <p>Click on a marker to view a restaurant's license status.</p>
     </div>
-    <div id="map-container"></div>
+    <div id="map-container" style="position: fixed; width: 100%; height: 100%;">
+      <canvas id="polygon-overlay" style="position: absolute; top: 0; left: 0; z-index: 10; pointer-events: none;"></canvas>
+    </div>
   </div>
 
   <script src="https://api.mapbox.com/mapbox-gl-js/v3.11.0/mapbox-gl.js"></script>
   <script src="data.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
   <script src="scripts.js"></script>
 
   <!-- Sidebar toggle script -->
