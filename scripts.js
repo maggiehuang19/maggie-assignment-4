@@ -91,8 +91,8 @@ map.on('load', () => {
     const feature = e.features[0]; // Get the clicked feature
     
     // Extract relevant properties from the feature
-    const name = feature.properties.name || 'N/A';
-    const address = feature.properties.address || 'N/A';
+    const name = feature.properties.restaurant_name || 'N/A';
+    const address = feature.properties.restaurant_address || 'N/A';
     const license_status = feature.properties.license_status || 'N/A';
 
     // Populate the sidebar with information
