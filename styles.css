@@ -137,7 +137,7 @@ body {
   width: 100%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black */
-  z-index: 999; /* Make sure the mask is above everything else except splash */
+  z-index: 10000; /* Make sure the mask is above everything else except splash */
   display: none; /* Initially hidden */
 }
 
@@ -217,8 +217,9 @@ body {
   cursor: pointer;
   width: 200px;
   font-family: 'Helvetica', sans-serif;
+
 }
   /* Ensure any button or legend elements (like filter buttons) are behind the mask */
-#legend, #toggleSidebar {
-  z-index: 10; /* Lower than splash and mask */
+#legend, #toggleSidebar, .button-container{
+  z-index: 1; /* Lower than splash and mask */
 }
