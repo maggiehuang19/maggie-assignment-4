@@ -37,6 +37,15 @@
   </div>
 </div>
 
+<div id="legend" class="legend">
+  <h3>License Type</h3>
+  <ul>
+    <li id="both-color" class="color-option" style="background-color: #1f78b4;"></li>
+    <li id="roadway-color" class="color-option" style="background-color: #33a02c;"></li>
+    <li id="sidewalk-color" class="color-option" style="background-color: #e31a1c;"></li>
+  </ul>
+</div>
+
 <!-- Main Content (map container) -->
 <div id="main">
   <div id="map-container" style="height: 100%;"></div>
@@ -47,12 +56,6 @@
 <script src="data.js"></script>
 <script src="scripts.js"></script>
 
-<!-- Sidebar toggle script -->
-<script>
-  document.getElementById('toggleSidebar').addEventListener('click', () => {
-    document.getElementById('sidebar').classList.toggle('collapsed');
-    document.getElementById('main').classList.toggle('expanded');
-  });
 </script>
 </body>
 

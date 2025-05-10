@@ -108,5 +108,37 @@ map.on('load', () => {
     document.querySelector('.floating-sidebar').scrollTop = 0;
   });
 
+  // Legend interactivity: Change marker color when legend option is clicked
+document.getElementById('both-color').addEventListener('click', function () {
+  map.setPaintProperty('restaurant-points', 'circle-color', [
+    'match',
+    ['get', 'license_type'],
+    'both', '#1f78b4',
+    'roadway', '#33a02c',
+    'sidewalk', '#e31a1c',
+    '#aaaaaa'
+  ]);
+});
 
+document.getElementById('roadway-color').addEventListener('click', function () {
+  map.setPaintProperty('restaurant-points', 'circle-color', [
+    'match',
+    ['get', 'license_type'],
+    'roadway', '#33a02c',
+    'both', '#1f78b4',
+    'sidewalk', '#e31a1c',
+    '#aaaaaa'
+  ]);
+});
+
+document.getElementById('sidewalk-color').addEventListener('click', function () {
+  map.setPaintProperty('restaurant-points', 'circle-color', [
+    'match',
+    ['get', 'license_type'],
+    'sidewalk', '#e31a1c',
+    'both', '#1f78b4',
+    'roadway', '#33a02c',
+    '#aaaaaa'
+  ]);
+});
 
