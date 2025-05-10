@@ -604,7 +604,7 @@ const restaurantData = {
       "coordinates":  [ -73.983109,40.72522 ]
    },
    "properties": {
-   "restaurant_name":"Buenos Aire",
+   "restaurant_name":"Buenos Aires",
    "restaurant_address":"513 EAST 6 STREET, NEW YORK, NY 10009",
    "license_status":"License Issued",
    "license_type":"roadway"

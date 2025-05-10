@@ -27,36 +27,58 @@
         <p>Click on each marker to view the restaurant's name, address, and license status.</p>
       </div>
     </div>
+    <!-- Mask element to block the content behind -->
+<div class="mask"></div>
   </div>
 
-<!-- Sidebar (always visible on the left side) -->
-<div id="sidebar" class="floating-sidebar">
-  <h3>Restaurant Information</h3>
-  <div id="sidebar-content">
-    <p>Click a marker to see details.</p>
+  <!-- Sidebar (always visible on the left side) -->
+  <div id="sidebar" class="floating-sidebar">
+    <h3>Restaurant Information</h3>
+    <div id="sidebar-content">
+      <p>Click a marker to see details.</p>
+    </div>
   </div>
-</div>
 
-<div id="legend" class="legend">
-  <h3>License Type</h3>
-  <ul>
-    <li id="both-color" class="color-option" style="background-color: #1f78b4;"></li>
-    <li id="roadway-color" class="color-option" style="background-color: #33a02c;"></li>
-    <li id="sidewalk-color" class="color-option" style="background-color: #e31a1c;"></li>
-  </ul>
-</div>
+  <!-- Legend -->
+  <div id="legend" class="legend">
+    <h3>Filter by License Type</h3>
+    <label>
+      <input type="checkbox" class="filter-checkbox" value="roadway" checked>
+      <span class="color-box" style="background-color: #33a02c;"></span> Roadway
+    </label><br>
+    <label>
+      <input type="checkbox" class="filter-checkbox" value="sidewalk" checked>
+      <span class="color-box" style="background-color: #e31a1c;"></span> Sidewalk
+    </label><br>
+    <label>
+      <input type="checkbox" class="filter-checkbox" value="both" checked>
+      <span class="color-box" style="background-color: #1f78b4;"></span> Both
+    </label>
+  </div>
 
-<!-- Main Content (map container) -->
-<div id="main">
-  <div id="map-container" style="height: 100%;"></div>
-</div>
+  <!-- Main Content (map container) -->
+  <div id="main">
+    <div id="map-container" style="height: 100%;"></div>
+  </div>
 
-<script src="https://api.mapbox.com/mapbox-gl-js/v3.11.0/mapbox-gl.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
-<script src="data.js"></script>
-<script src="scripts.js"></script>
+  <script src="https://api.mapbox.com/mapbox-gl-js/v3.11.0/mapbox-gl.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@turf/turf@6/turf.min.js"></script>
+  <script src="data.js"></script>
+  <script src="scripts.js"></script>
 
-</script>
+  </script>
+
+  <div class="button-container">
+    <!-- Button 1 with link -->
+    <a href="https://www.diningoutnyc.info/rules" target="_blank">
+      <button id="top-button">Program Requirements</button>
+    </a>
+    
+    <!-- Button 2 with link -->
+    <a href="https://diningout.nyc.gov/application/" target="_blank">
+      <button id="bottom-button">Apply Now!</button>
+    </a>
+  </div>
 </body>
 
 </html>

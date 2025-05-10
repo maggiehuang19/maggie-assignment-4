@@ -86,6 +86,23 @@ map.on('load', () => {
   });
 });
 
+// Filtering logic
+const checkboxes = document.querySelectorAll('.filter-checkbox');
+
+checkboxes.forEach(cb => {
+  cb.addEventListener('change', () => {
+    const selectedTypes = Array.from(checkboxes)
+      .filter(cb => cb.checked)
+      .map(cb => cb.value);
+
+    if (selectedTypes.length > 0) {
+      map.setFilter('restaurant-points', ['in', ['get', 'license_type'], ['literal', selectedTypes]]);
+    } else {
+      map.setFilter('restaurant-points', ['in', 'license_type', '']); // Hide all
+    }
+  });
+});
+
   // Click on a restaurant point and populate sidebar information
   map.on('click', 'restaurant-points', function (e) {
     const feature = e.features[0]; // Get the clicked feature
@@ -141,4 +158,7 @@ document.getElementById('sidewalk-color').addEventListener('click', function () 
     '#aaaaaa'
   ]);
 });
+  
+
+
 
