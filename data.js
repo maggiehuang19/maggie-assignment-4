@@ -270,1970 +270,1970 @@ const cbBoundary = {
 
  
 const restaurantData = {
-  "type": "FeatureCollection",
-  "features": [
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98869541,40.72881485 ]
-   },
-   "properties": {
-   "restaurant_name":"886",
-   "restaurant_address":"26 ST MARKS PLACE, NEW YORK, NY 10003",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.981225,40.728088 ]
-   },
-   "properties": {
-   "restaurant_name":"11th St Bar",
-   "restaurant_address":"510 EAST 11 STREET, NEW YORK, NY 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9897569,40.71387775 ]
-   },
-   "properties": {
-   "restaurant_name":"169 Bar",
-   "restaurant_address":"169 E BROADWAY, NEW YORK, NY 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9859591,40.7229662 ]
-   },
-   "properties": {
-   "restaurant_name":"2A",
-   "restaurant_address":"25 AVENUE A, NEW YORK, NY 10009",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9854077,40.7269409 ]
-   },
-   "properties": {
-   "restaurant_name":"7th Street Burger",
-   "restaurant_address":"91 EAST 7 STREET, NEW YORK, NY 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.983519,40.725905 ]
-   },
-   "properties": {
-   "restaurant_name":"96 Tears",
-   "restaurant_address":"110 AVENUE A, NEW YORK, NY 10009",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.985491,40.722992 ]
-   },
-   "properties": {
-   "restaurant_name":"A'more Caffe",
-   "restaurant_address":"150 EAST 2 STREET, NEW YORK, NY 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98186022,40.7280505 ]
-   },
-   "properties": {
-   "restaurant_name":"A10 Kitchen",
-   "restaurant_address":"162 AVENUE A, NEW YORK, NY 10009",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.97884536,40.72365905 ]
-   },
-   "properties": {
-   "restaurant_name":"ABC Beer Co",
-   "restaurant_address":"96 AVENUE C, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99325461,40.7210373 ]
-   },
-   "properties": {
-   "restaurant_name":"Ainslie Bowery",
-   "restaurant_address":"199 BOWERY, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98435049,40.7269425 ]
-   },
-   "properties": {
-   "restaurant_name":"Alison St Marks",
-   "restaurant_address":"110 SAINT MARKS PLACE, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.97932557,40.72798695 ]
-   },
-   "properties": {
-   "restaurant_name":"Ama Raw Bar",
-   "restaurant_address":"190 AVENUE B, NEW YORK, NY 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9813475,40.728885 ]
-   },
-   "properties": {
-   "restaurant_name":"Au Za'atar",
-   "restaurant_address":"188 AVENUE A, NEW YORK, NY 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98813027,40.7284574 ]
-   },
-   "properties": {
-   "restaurant_name":"B&H Dairy Lunch",
-   "restaurant_address":"127 SECOND AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Issued",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99182622,40.71435996 ]
-   },
-   "properties": {
-   "restaurant_name":"Bacara",
-   "restaurant_address":"136 DIVISION STREET, NEW YORK, NY 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98302292,40.7302617 ]
-   },
-   "properties": {
-   "restaurant_name":"Balade",
-   "restaurant_address":"208 1 AVENUE, NEW YORK, NY 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9916376,40.7151628 ]
-   },
-   "properties": {
-   "restaurant_name":"Bar Belly",
-   "restaurant_address":"14 ORCHARD STREET, NEW YORK, NY 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9917741,40.7256841 ]
-   },
-   "properties": {
-   "restaurant_name":"Bar Primi",
-   "restaurant_address":"325 BOWERY, NEW YORK, NY 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.988626,40.726965 ]
-   },
-   "properties": {
-   "restaurant_name":"Bar Snack",
-   "restaurant_address":"92 2 AVENUE, NEW YORK, NY 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99008929,40.717992 ]
-   },
-   "properties": {
-   "restaurant_name":"Barrio Chino",
-   "restaurant_address":"253 BROOME STREET, NEW YORK, NY 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98630103,40.7274444 ]
-   },
-   "properties": {
-   "restaurant_name":"Belvedere Lounge",
-   "restaurant_address":"77 EAST 7 STREET, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.983602,40.723837 ]
-   },
-   "properties": {
-   "restaurant_name":"Bibi Winecellar",
-   "restaurant_address":"211 EAST 4 STREET, NEW YORK, NY 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98323789,40.72297255 ]
-   },
-   "properties": {
-   "restaurant_name":"Book Club",
-   "restaurant_address":"197 EAST 3 STREET, NEW YORK, NY 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.991815,40.724577 ]
-   },
-   "properties": {
-   "restaurant_name":"Bowery Meat Company",
-   "restaurant_address":"9 EAST 1 STREET, NEW YORK, NY, 10003",
-   "license_status":"License Issued",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98944,40.725871 ]
-   },
-   "properties": {
-   "restaurant_name":"Bronx Brewery",
-   "restaurant_address":"64 2 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.983109,40.72522 ]
-   },
-   "properties": {
-   "restaurant_name":"Buenos Aires",
-   "restaurant_address":"513 EAST 6 STREET, NEW YORK, NY 10009",
-   "license_status":"License Issued",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.981608,40.725138 ]
-   },
-   "properties": {
-   "restaurant_name":"C&B",
-   "restaurant_address":"178 EAST 7 STREET, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.988039,40.72841 ]
-   },
-   "properties": {
-   "restaurant_name":"Café Maud",
-   "restaurant_address":"127 2 AVENUE, NEW YORK, NY 10003",
-   "license_status":"License Issued",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9832616,40.722074 ]
-   },
-   "properties": {
-   "restaurant_name":"Cantina Cubana",
-   "restaurant_address":"17 AVENUE B, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9916695,40.7151017 ]
-   },
-   "properties": {
-   "restaurant_name":"Carlota",
-   "restaurant_address":"14A ORCHARD ST, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.994046,40.720175 ]
-   },
-   "properties": {
-   "restaurant_name":"Casa Thirteen",
-   "restaurant_address":"1 DELANCEY STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99035081,40.71582113 ]
-   },
-   "properties": {
-   "restaurant_name":"Casetta",
-   "restaurant_address":"61 HESTER STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9942216,40.7125532 ]
-   },
-   "properties": {
-   "restaurant_name":"Cellar 36",
-   "restaurant_address":"36 MARKET STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99132292,40.71489565 ]
-   },
-   "properties": {
-   "restaurant_name":"Cervo's",
-   "restaurant_address":"43 CANAL STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99086074,40.71475385 ]
-   },
-   "properties": {
-   "restaurant_name":"Clandestino Café",
-   "restaurant_address":"35 CANAL STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98079263,40.72125688 ]
-   },
-   "properties": {
-   "restaurant_name":"Commodore",
-   "restaurant_address":"14 AVENUE C, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9921477,40.7148552 ]
-   },
-   "properties": {
-   "restaurant_name":"Corner Bar/Swan Room",
-   "restaurant_address":"54 CANAL STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.992112,40.724707 ]
-   },
-   "properties": {
-   "restaurant_name":"Dark Matter Coffee",
-   "restaurant_address":"1 EAST 1 STREET, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.97978,40.7273847 ]
-   },
-   "properties": {
-   "restaurant_name":"Desi Galli",
-   "restaurant_address":"172 AVENUE B, NEW YORK, NY 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99948451,40.71684155 ]
-   },
-   "properties": {
-   "restaurant_name":"Diaspora",
-   "restaurant_address":"91 BAXTER STREET, NEW YORK, NY, 10013",
-   "license_status":"License Issued",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.989734,40.733337 ]
-   },
-   "properties": {
-   "restaurant_name":"Dig Inn",
-   "restaurant_address":"127 4 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99154267,40.7149613 ]
-   },
-   "properties": {
-   "restaurant_name":"Dimes",
-   "restaurant_address":"49 CANAL STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9893481,40.7186579 ]
-   },
-   "properties": {
-   "restaurant_name":"Dinner on Ludlow",
-   "restaurant_address":"95 DELANCEY STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.988589,40.731055 ]
-   },
-   "properties": {
-   "restaurant_name":"Dolar Shop",
-   "restaurant_address":"55 3 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98747756,40.72508175 ]
-   },
-   "properties": {
-   "restaurant_name":"Don Ceviche",
-   "restaurant_address":"57 1 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9846318,40.7199292 ]
-   },
-   "properties": {
-   "restaurant_name":"Donnybrook",
-   "restaurant_address":"37-39 CLINTON STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.979852,40.7271105 ]
-   },
-   "properties": {
-   "restaurant_name":"Dream Baby",
-   "restaurant_address":"162 AVENUE B, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9952652,40.71276875 ]
-   },
-   "properties": {
-   "restaurant_name":"Dreamers Coffee",
-   "restaurant_address":"54 HENRY STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99225055,40.718649 ]
-   },
-   "properties": {
-   "restaurant_name":"Early Terrible NYC",
-   "restaurant_address":"303 BROOME STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.986874,40.726801 ]
-   },
-   "properties": {
-   "restaurant_name":"Elsewhere Espresso",
-   "restaurant_address":"335 EAST 6 STREET, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.986639,40.725944 ]
-   },
-   "properties": {
-   "restaurant_name":"Emmy Squared",
-   "restaurant_address":"83 1 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98572463,40.71434788 ]
-   },
-   "properties": {
-   "restaurant_name":"Ernesto's",
-   "restaurant_address":"259 EAST BROADWAY, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9871558,40.7198044 ]
-   },
-   "properties": {
-   "restaurant_name":"Essex Restaurant",
-   "restaurant_address":"124 RIVINGTON STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.977298,40.726661 ]
-   },
-   "properties": {
-   "restaurant_name":"Fiaschetteria Pistoia",
-   "restaurant_address":"647 EAST 11 STREET, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.985808,40.730824 ]
-   },
-   "properties": {
-   "restaurant_name":"Five Guys",
-   "restaurant_address":"188 2 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9896933,40.71623145 ]
-   },
-   "properties": {
-   "restaurant_name":"Flowers Café",
-   "restaurant_address":"39 ESSEX STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.988733,40.726854 ]
-   },
-   "properties": {
-   "restaurant_name":"Frank",
-   "restaurant_address":"88 2 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9914501,40.7262638 ]
-   },
-   "properties": {
-   "restaurant_name":"Gemma",
-   "restaurant_address":"4 EAST 3 STREET, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.983071,40.723406 ]
-   },
-   "properties": {
-   "restaurant_name":"Gnoccheria by Luzzo's",
-   "restaurant_address":"234 EAST 4 STREET, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.980281,40.727127 ]
-   },
-   "properties": {
-   "restaurant_name":"Gnocco",
-   "restaurant_address":"337 EAST 10 STREET, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9941166,40.7124226 ]
-   },
-   "properties": {
-   "restaurant_name":"Golden Diner",
-   "restaurant_address":"123 MADISON STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.987662,40.7164182 ]
-   },
-   "properties": {
-   "restaurant_name":"Grand Street Pizza",
-   "restaurant_address":"384 GRAND STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.990062,40.71892367 ]
-   },
-   "properties": {
-   "restaurant_name":"Grey Lady",
-   "restaurant_address":"77 DELANCEY STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98196988,40.7279078 ]
-   },
-   "properties": {
-   "restaurant_name":"Horus Café",
-   "restaurant_address":"293 EAST 10 STREET, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9814587,40.7245387 ]
-   },
-   "properties": {
-   "restaurant_name":"Horus Kebab House",
-   "restaurant_address":"93 AVENUE B, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.990958,40.72107735 ]
-   },
-   "properties": {
-   "restaurant_name":"Jadis",
-   "restaurant_address":"42 RIVINGTON STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9903953,40.7141557 ]
-   },
-   "properties": {
-   "restaurant_name":"Jajaja Plantas Mexicana",
-   "restaurant_address":"162 EAST BROADWAY, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99007293,40.717987 ]
-   },
-   "properties": {
-   "restaurant_name":"Kalye",
-   "restaurant_address":"251 BROOME STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.986415,40.730634 ]
-   },
-   "properties": {
-   "restaurant_name":"Kanoyama",
-   "restaurant_address":"175 2 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98390372,40.72600465 ]
-   },
-   "properties": {
-   "restaurant_name":"Kazuza",
-   "restaurant_address":"107 AVENUE A, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9918059,40.7143643 ]
-   },
-   "properties": {
-   "restaurant_name":"Kiki's Grill & Rotisserie",
-   "restaurant_address":"121 DIVISION STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.989881,40.725867 ]
-   },
-   "properties": {
-   "restaurant_name":"Kona Coffee and Company",
-   "restaurant_address":"57 2 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9888536,40.7165178 ]
-   },
-   "properties": {
-   "restaurant_name":"Kossars & Beyond",
-   "restaurant_address":"367 GRAND STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98697045,40.7187462 ]
-   },
-   "properties": {
-   "restaurant_name":"La Contenta LES",
-   "restaurant_address":"102 NORFOLK ST, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.990967,40.714707 ]
-   },
-   "properties": {
-   "restaurant_name":"Le Dive",
-   "restaurant_address":"37 CANAL STREET, NEW YORK, NY, 10002",
-   "license_status":"Denied by City Council",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9887381,40.7135855 ]
-   },
-   "properties": {
-   "restaurant_name":"Les Enfants de Boheme",
-   "restaurant_address":"173 HENRY STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99087742,40.72809456 ]
-   },
-   "properties": {
-   "restaurant_name":"Librae Bakery",
-   "restaurant_address":"35 COOPER SQUARE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98859932,40.7237508 ]
-   },
-   "properties": {
-   "restaurant_name":"Lil Frankie's Grocery",
-   "restaurant_address":"21 1 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98850065,40.72360365 ]
-   },
-   "properties": {
-   "restaurant_name":"Lil Frankie's Pizza",
-   "restaurant_address":"19 1 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9904272,40.7143288 ]
-   },
-   "properties": {
-   "restaurant_name":"Little Canal",
-   "restaurant_address":"26 CANAL STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.985540,40.731170 ]
-   },
-   "properties": {
-   "restaurant_name":"Little Poland Restaurant",
-   "restaurant_address":"200 2 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99082,40.724275 ]
-   },
-   "properties": {
-   "restaurant_name":"Little Rebel",
-   "restaurant_address":"19 2 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9926389,40.71826055 ]
-   },
-   "properties": {
-   "restaurant_name":"Little Wayla",
-   "restaurant_address":"100 FORSYTH STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99287157,40.7212191 ]
-   },
-   "properties": {
-   "restaurant_name":"Loreley",
-   "restaurant_address":"7 RIVINGTON STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.988076,40.72334135 ]
-   },
-   "properties": {
-   "restaurant_name":"Lucien",
-   "restaurant_address":"14 1 AVENUE, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.986019,40.729337 ]
-   },
-   "properties": {
-   "restaurant_name":"Madame Vo",
-   "restaurant_address":"212 EAST 10 STREET, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.979852,40.7271105 ]
-   },
-   "properties": {
-   "restaurant_name":"Maiden Lane",
-   "restaurant_address":"162 AVENUE B, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.986579,40.72981 ]
-   },
-   "properties": {
-   "restaurant_name":"Marinara Pizza",
-   "restaurant_address":"160 2 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9852583,40.7268816 ]
-   },
-   "properties": {
-   "restaurant_name":"Mary O's Irish Soda Bread Shop",
-   "restaurant_address":"93 1/2 EAST 7 STREET, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.988167,40.727142 ]
-   },
-   "properties": {
-   "restaurant_name":"Mayamezcal",
-   "restaurant_address":"304 EAST 6 STREET, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99193235,40.7152744 ]
-   },
-   "properties": {
-   "restaurant_name":"Mictlan Mexico",
-   "restaurant_address":"17 ORCHARD STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.983708,40.725985 ]
-   },
-   "properties": {
-   "restaurant_name":"Miss Lily's 7A",
-   "restaurant_address":"109 AVENUE A, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98629884,40.7268053 ]
-   },
-   "properties": {
-   "restaurant_name":"Mister Paradise",
-   "restaurant_address":"105 1 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98803,40.725488 ]
-   },
-   "properties": {
-   "restaurant_name":"Monomono",
-   "restaurant_address":"116 EAST 4 STREET, NEW YORK, NY 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.980685,40.729794 ]
-   },
-   "properties": {
-   "restaurant_name":"Motel No Tell",
-   "restaurant_address":"210 AVENUE A, NEW YORK, NY ",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98663841,40.7290931 ]
-   },
-   "properties": {
-   "restaurant_name":"Mudspot",
-   "restaurant_address":"307 EAST 9 STREET, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.983362,40.726121 ]
-   },
-   "properties": {
-   "restaurant_name":"Niagara",
-   "restaurant_address":"112 AVENUE A, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.987584,40.72524245 ]
-   },
-   "properties": {
-   "restaurant_name":"Non LA",
-   "restaurant_address":"128 EAST 4 STREET, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.983339,40.725317 ]
-   },
-   "properties": {
-   "restaurant_name":"Nowon",
-   "restaurant_address":"507 EAST 6 STREET, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9901626,40.71773035 ]
-   },
-   "properties": {
-   "restaurant_name":"Orchard Grocer",
-   "restaurant_address":"78 ORCHARD STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9911613,40.7144105 ]
-   },
-   "properties": {
-   "restaurant_name":"Parcelle",
-   "restaurant_address":"135C DIVISION ST, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9832062,40.7210934 ]
-   },
-   "properties": {
-   "restaurant_name":"Parkside Lounge",
-   "restaurant_address":"317 EAST HOUSTON STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.987622,40.732393 ]
-   },
-   "properties": {
-   "restaurant_name":"Penny Farthing Restaurant",
-   "restaurant_address":"103 3 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.991503,40.726897 ]
-   },
-   "properties": {
-   "restaurant_name":"Phebes",
-   "restaurant_address":"359 BOWERY STREET, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.981083,40.72993 ]
-   },
-   "properties": {
-   "restaurant_name":"Phoenix",
-   "restaurant_address":"447 EAST 13 STREET, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9877925,40.724496 ]
-   },
-   "properties": {
-   "restaurant_name":"Rake Wine Bar",
-   "restaurant_address":"45 1 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.986657,40.726503 ]
-   },
-   "properties": {
-   "restaurant_name":"Raku",
-   "restaurant_address":"342 EAST 6 STREET, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9896907,40.7293054 ]
-   },
-   "properties": {
-   "restaurant_name":"Ray's Pizza Bagel Café",
-   "restaurant_address":"2 SAINT MARKS PLACE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99252688,40.72112345 ]
-   },
-   "properties": {
-   "restaurant_name":"Rays",
-   "restaurant_address":"177 CHRYSTIE STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99126967,40.716326 ]
-   },
-   "properties": {
-   "restaurant_name":"Reception Bar",
-   "restaurant_address":"45 ORCHARD STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.990645,40.724938 ]
-   },
-   "properties": {
-   "restaurant_name":"Rosie's",
-   "restaurant_address":"29 EAST 2 STREET, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.988589,40.731055 ]
-   },
-   "properties": {
-   "restaurant_name":"Ruby's Café",
-   "restaurant_address":"55 3 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.988379,40.726638 ]
-   },
-   "properties": {
-   "restaurant_name":"Rynn Restaurant and Bar",
-   "restaurant_address":"309 EAST 5 STREET, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.980215,40.72454 ]
-   },
-   "properties": {
-   "restaurant_name":"Sake Bar Satsko",
-   "restaurant_address":"202 EAST 7 STREET, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.988035,40.731719 ]
-   },
-   "properties": {
-   "restaurant_name":"Sammy L Coffee",
-   "restaurant_address":"83 3 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.988359,40.72796 ]
-   },
-   "properties": {
-   "restaurant_name":"San Marzano",
-   "restaurant_address":"117 2 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9835075,40.73023933 ]
-   },
-   "properties": {
-   "restaurant_name":"Sarita's Mac and Cheese",
-   "restaurant_address":"197 1 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9864184,40.7263723 ]
-   },
-   "properties": {
-   "restaurant_name":"Schmuck",
-   "restaurant_address":"97 1 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.988533,40.7199767 ]
-   },
-   "properties": {
-   "restaurant_name":"Set L.E.S.",
-   "restaurant_address":"127 LUDLOW STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99688095,40.7156459 ]
-   },
-   "properties": {
-   "restaurant_name":"Shinsen",
-   "restaurant_address":"44 BOWERY, NEW YORK, NY, 10013",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.981531,40.729275 ]
-   },
-   "properties": {
-   "restaurant_name":"SMOR",
-   "restaurant_address":"441 EAST 12 STREET, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.981726,40.729357 ]
-   },
-   "properties": {
-   "restaurant_name":"SMOR Bakery",
-   "restaurant_address":"437 EAST 12 STREET, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99001898,40.7223269 ]
-   },
-   "properties": {
-   "restaurant_name":"Spaghetti Incident",
-   "restaurant_address":"231 ELDRIDGE STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98725898,40.7266835 ]
-   },
-   "properties": {
-   "restaurant_name":"Spicy Moon",
-   "restaurant_address":"328 E 6TH ST, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99244082,40.7233999 ]
-   },
-   "properties": {
-   "restaurant_name":"Spicy Moon Bowery",
-   "restaurant_address":"265 BOWERY, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9901813,40.7180011 ]
-   },
-   "properties": {
-   "restaurant_name":"Sunday to Sunday",
-   "restaurant_address":"88 ORCHARD STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9852135,40.72296305 ]
-   },
-   "properties": {
-   "restaurant_name":"Supper",
-   "restaurant_address":"156 EAST 2 STREET, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.987189,40.729565 ]
-   },
-   "properties": {
-   "restaurant_name":"The Copper Still",
-   "restaurant_address":"151 2 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98524328,40.7272103 ]
-   },
-   "properties": {
-   "restaurant_name":"The Grafton Public House",
-   "restaurant_address":"126 1 AVENUE, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.989795,40.725985 ]
-   },
-   "properties": {
-   "restaurant_name":"The Gray Mare",
-   "restaurant_address":"61 2 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9862969,40.7265846 ]
-   },
-   "properties": {
-   "restaurant_name":"The Headless Widow",
-   "restaurant_address":"99 1 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.985375,40.7285603 ]
-   },
-   "properties": {
-   "restaurant_name":"The Immigrant NYC",
-   "restaurant_address":"341 EAST 9 STREET, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.990562,40.727568 ]
-   },
-   "properties": {
-   "restaurant_name":"The Scratcher Café",
-   "restaurant_address":"209 EAST 5 STREET, NEW YORK, NY 10003",
-   "license_status":"License Issued",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.988589,40.731055 ]
-   },
-   "properties": {
-   "restaurant_name":"The Smith",
-   "restaurant_address":"55 3 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.989868,40.7178683 ]
-   },
-   "properties": {
-   "restaurant_name":"The Ten Bells",
-   "restaurant_address":"247 BROOME STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.989775,40.732983 ]
-   },
-   "properties": {
-   "restaurant_name":"Think Coffee",
-   "restaurant_address":"123 4 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99050805,40.71431545 ]
-   },
-   "properties": {
-   "restaurant_name":"Tolo",
-   "restaurant_address":"28 CANAL STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9889387,40.7204343 ]
-   },
-   "properties": {
-   "restaurant_name":"Trapizzino",
-   "restaurant_address":"144 ORCHARD STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.991471,40.71538675 ]
-   },
-   "properties": {
-   "restaurant_name":"Treasure Club",
-   "restaurant_address":"22 ORCHARD STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98296523,40.72400225 ]
-   },
-   "properties": {
-   "restaurant_name":"Tuome",
-   "restaurant_address":"536 EAST 5 STREET, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98639043,40.72628429 ]
-   },
-   "properties": {
-   "restaurant_name":"Upstate Craft Beer & Oyster Bar",
-   "restaurant_address":"95 1 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98693709,40.71885625 ]
-   },
-   "properties": {
-   "restaurant_name":"Vallarta Tropical",
-   "restaurant_address":"106 NORFOLK STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.987223,40.729044 ]
-   },
-   "properties": {
-   "restaurant_name":"Veselka Restaurant",
-   "restaurant_address":"144 SECOND AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99000915,40.7224451 ]
-   },
-   "properties": {
-   "restaurant_name":"Victoria!",
-   "restaurant_address":"235 ELDRIDGE STREET, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9827364,40.72750935 ]
-   },
-   "properties": {
-   "restaurant_name":"Village Square Pizza",
-   "restaurant_address":"147 AVENUE A, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.981963,40.728378 ]
-   },
-   "properties": {
-   "restaurant_name":"Westville",
-   "restaurant_address":"173 AVENUE A, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"both"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9997677,40.71649025 ]
-   },
-   "properties": {
-   "restaurant_name":"Whiskey Tavern",
-   "restaurant_address":"79 BAXTER ST, NEW YORK, NY 10013",
-   "license_status":"License Issued",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.98857,40.727054 ]
-   },
-   "properties": {
-   "restaurant_name":"Wonderland Bar",
-   "restaurant_address":"96 2 AVENUE, NEW YORK, NY, 10003",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9899594,40.7139499 ]
-   },
-   "properties": {
-   "restaurant_name":"Wu's Wonton King",
-   "restaurant_address":"165 EAST BROADWAY, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"sidewalk"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.9835991,40.7262028 ]
-   },
-   "properties": {
-   "restaurant_name":"Yuca Bar & Restaurant",
-   "restaurant_address":"111 AVENUE A, NEW YORK, NY, 10009",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- },
- {
-   "type": "Feature",
-   "geometry": {
-      "type": "Point",
-      "coordinates":  [ -73.99005657,40.717982 ]
-   },
-   "properties": {
-   "restaurant_name":"Zest Sushi",
-   "restaurant_address":"249 BROOME ST, NEW YORK, NY, 10002",
-   "license_status":"License Pending",
-   "license_type":"roadway"
-   }
- }
-]
-};
+    "type": "FeatureCollection",
+    "features": [
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98869541,40.72881485 ]
+     },
+     "properties": {
+     "restaurant_name":"886",
+     "restaurant_address":"26 ST MARKS PLACE, NEW YORK, NY 10003",
+     "license_status":"License Pending",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.981225,40.728088 ]
+     },
+     "properties": {
+     "restaurant_name":"11th St Bar",
+     "restaurant_address":"510 EAST 11 STREET, NEW YORK, NY 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9897569,40.71387775 ]
+     },
+     "properties": {
+     "restaurant_name":"169 Bar",
+     "restaurant_address":"169 E BROADWAY, NEW YORK, NY 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9859591,40.7229662 ]
+     },
+     "properties": {
+     "restaurant_name":"2A",
+     "restaurant_address":"25 AVENUE A, NEW YORK, NY 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9854077,40.7269409 ]
+     },
+     "properties": {
+     "restaurant_name":"7th Street Burger",
+     "restaurant_address":"91 EAST 7 STREET, NEW YORK, NY 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.983519,40.725905 ]
+     },
+     "properties": {
+     "restaurant_name":"96 Tears",
+     "restaurant_address":"110 AVENUE A, NEW YORK, NY 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.985491,40.722992 ]
+     },
+     "properties": {
+     "restaurant_name":"A'more Caffe",
+     "restaurant_address":"150 EAST 2 STREET, NEW YORK, NY 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98186022,40.7280505 ]
+     },
+     "properties": {
+     "restaurant_name":"A10 Kitchen",
+     "restaurant_address":"162 AVENUE A, NEW YORK, NY 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.97884536,40.72365905 ]
+     },
+     "properties": {
+     "restaurant_name":"ABC Beer Co",
+     "restaurant_address":"96 AVENUE C, NEW YORK, NY, 10009",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99325461,40.7210373 ]
+     },
+     "properties": {
+     "restaurant_name":"Ainslie Bowery",
+     "restaurant_address":"199 BOWERY, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98435049,40.7269425 ]
+     },
+     "properties": {
+     "restaurant_name":"Alison St Marks",
+     "restaurant_address":"110 SAINT MARKS PLACE, NEW YORK, NY, 10009",
+     "license_status":"License Pending",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.97932557,40.72798695 ]
+     },
+     "properties": {
+     "restaurant_name":"Ama Raw Bar",
+     "restaurant_address":"190 AVENUE B, NEW YORK, NY 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9813475,40.728885 ]
+     },
+     "properties": {
+     "restaurant_name":"Au Za'atar",
+     "restaurant_address":"188 AVENUE A, NEW YORK, NY 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98813027,40.7284574 ]
+     },
+     "properties": {
+     "restaurant_name":"B&H Dairy Lunch",
+     "restaurant_address":"127 SECOND AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Issued",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99182622,40.71435996 ]
+     },
+     "properties": {
+     "restaurant_name":"Bacaro",
+     "restaurant_address":"136 DIVISION STREET, NEW YORK, NY 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98302292,40.7302617 ]
+     },
+     "properties": {
+     "restaurant_name":"Balade",
+     "restaurant_address":"208 1 AVENUE, NEW YORK, NY 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9916376,40.7151628 ]
+     },
+     "properties": {
+     "restaurant_name":"Bar Belly",
+     "restaurant_address":"14 ORCHARD STREET, NEW YORK, NY 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9917741,40.7256841 ]
+     },
+     "properties": {
+     "restaurant_name":"Bar Primi",
+     "restaurant_address":"325 BOWERY, NEW YORK, NY 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.988626,40.726965 ]
+     },
+     "properties": {
+     "restaurant_name":"Bar Snack",
+     "restaurant_address":"92 2 AVENUE, NEW YORK, NY 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99008929,40.717992 ]
+     },
+     "properties": {
+     "restaurant_name":"Barrio Chino",
+     "restaurant_address":"253 BROOME STREET, NEW YORK, NY 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98630103,40.7274444 ]
+     },
+     "properties": {
+     "restaurant_name":"Belvedere Lounge",
+     "restaurant_address":"77 EAST 7 STREET, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.983602,40.723837 ]
+     },
+     "properties": {
+     "restaurant_name":"Bibi Winecellar",
+     "restaurant_address":"211 EAST 4 STREET, NEW YORK, NY 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98323789,40.72297255 ]
+     },
+     "properties": {
+     "restaurant_name":"Book Club",
+     "restaurant_address":"197 EAST 3 STREET, NEW YORK, NY 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.991815,40.724577 ]
+     },
+     "properties": {
+     "restaurant_name":"Bowery Meat Company",
+     "restaurant_address":"9 EAST 1 STREET, NEW YORK, NY, 10003",
+     "license_status":"License Issued",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98944,40.725871 ]
+     },
+     "properties": {
+     "restaurant_name":"Bronx Brewery",
+     "restaurant_address":"64 2 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.983109,40.72522 ]
+     },
+     "properties": {
+     "restaurant_name":"Buenos Aires",
+     "restaurant_address":"513 EAST 6 STREET, NEW YORK, NY 10009",
+     "license_status":"License Issued",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.981608,40.725138 ]
+     },
+     "properties": {
+     "restaurant_name":"C&B",
+     "restaurant_address":"178 EAST 7 STREET, NEW YORK, NY, 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.988039,40.72841 ]
+     },
+     "properties": {
+     "restaurant_name":"Café Maud",
+     "restaurant_address":"127 2 AVENUE, NEW YORK, NY 10003",
+     "license_status":"License Issued",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9832616,40.722074 ]
+     },
+     "properties": {
+     "restaurant_name":"Cantina Cubana",
+     "restaurant_address":"17 AVENUE B, NEW YORK, NY, 10009",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9916695,40.7151017 ]
+     },
+     "properties": {
+     "restaurant_name":"Carlota",
+     "restaurant_address":"14A ORCHARD ST, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.994046,40.720175 ]
+     },
+     "properties": {
+     "restaurant_name":"Casa Thirteen",
+     "restaurant_address":"1 DELANCEY STREET, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99035081,40.71582113 ]
+     },
+     "properties": {
+     "restaurant_name":"Casetta",
+     "restaurant_address":"61 HESTER STREET, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9942216,40.7125532 ]
+     },
+     "properties": {
+     "restaurant_name":"Cellar 36",
+     "restaurant_address":"36 MARKET STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99132292,40.71489565 ]
+     },
+     "properties": {
+     "restaurant_name":"Cervo's",
+     "restaurant_address":"43 CANAL STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99086074,40.71475385 ]
+     },
+     "properties": {
+     "restaurant_name":"Clandestino Café",
+     "restaurant_address":"35 CANAL STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98079263,40.72125688 ]
+     },
+     "properties": {
+     "restaurant_name":"Commodore",
+     "restaurant_address":"14 AVENUE C, NEW YORK, NY, 10009",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9921477,40.7148552 ]
+     },
+     "properties": {
+     "restaurant_name":"Corner Bar/Swan Room",
+     "restaurant_address":"54 CANAL STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.992112,40.724707 ]
+     },
+     "properties": {
+     "restaurant_name":"Dark Matter Coffee",
+     "restaurant_address":"1 EAST 1 STREET, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.97978,40.7273847 ]
+     },
+     "properties": {
+     "restaurant_name":"Desi Galli",
+     "restaurant_address":"172 AVENUE B, NEW YORK, NY 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99948451,40.71684155 ]
+     },
+     "properties": {
+     "restaurant_name":"Diaspora",
+     "restaurant_address":"91 BAXTER STREET, NEW YORK, NY, 10013",
+     "license_status":"License Issued",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.989734,40.733337 ]
+     },
+     "properties": {
+     "restaurant_name":"Dig Inn",
+     "restaurant_address":"127 4 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99154267,40.7149613 ]
+     },
+     "properties": {
+     "restaurant_name":"Dimes",
+     "restaurant_address":"49 CANAL STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9893481,40.7186579 ]
+     },
+     "properties": {
+     "restaurant_name":"Dinner on Ludlow",
+     "restaurant_address":"95 DELANCEY STREET, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.988589,40.731055 ]
+     },
+     "properties": {
+     "restaurant_name":"Dolar Shop",
+     "restaurant_address":"55 3 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98747756,40.72508175 ]
+     },
+     "properties": {
+     "restaurant_name":"Don Ceviche",
+     "restaurant_address":"57 1 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9846318,40.7199292 ]
+     },
+     "properties": {
+     "restaurant_name":"Donnybrook",
+     "restaurant_address":"37-39 CLINTON STREET, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.979852,40.7271105 ]
+     },
+     "properties": {
+     "restaurant_name":"Dream Baby",
+     "restaurant_address":"162 AVENUE B, NEW YORK, NY, 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9952652,40.71276875 ]
+     },
+     "properties": {
+     "restaurant_name":"Dreamers Coffee",
+     "restaurant_address":"54 HENRY STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99225055,40.718649 ]
+     },
+     "properties": {
+     "restaurant_name":"Early Terrible NYC",
+     "restaurant_address":"303 BROOME STREET, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.986874,40.726801 ]
+     },
+     "properties": {
+     "restaurant_name":"Elsewhere Espresso",
+     "restaurant_address":"335 EAST 6 STREET, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.986639,40.725944 ]
+     },
+     "properties": {
+     "restaurant_name":"Emmy Squared",
+     "restaurant_address":"83 1 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98572463,40.71434788 ]
+     },
+     "properties": {
+     "restaurant_name":"Ernesto's",
+     "restaurant_address":"259 EAST BROADWAY, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9871558,40.7198044 ]
+     },
+     "properties": {
+     "restaurant_name":"Essex Restaurant",
+     "restaurant_address":"124 RIVINGTON STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.977298,40.726661 ]
+     },
+     "properties": {
+     "restaurant_name":"Fiaschetteria Pistoia",
+     "restaurant_address":"647 EAST 11 STREET, NEW YORK, NY, 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.985808,40.730824 ]
+     },
+     "properties": {
+     "restaurant_name":"Five Guys",
+     "restaurant_address":"188 2 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9896933,40.71623145 ]
+     },
+     "properties": {
+     "restaurant_name":"Flowers Café",
+     "restaurant_address":"39 ESSEX STREET, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.988733,40.726854 ]
+     },
+     "properties": {
+     "restaurant_name":"Frank",
+     "restaurant_address":"88 2 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9914501,40.7262638 ]
+     },
+     "properties": {
+     "restaurant_name":"Gemma",
+     "restaurant_address":"4 EAST 3 STREET, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.983071,40.723406 ]
+     },
+     "properties": {
+     "restaurant_name":"Gnoccheria by Luzzo's",
+     "restaurant_address":"234 EAST 4 STREET, NEW YORK, NY, 10009",
+     "license_status":"License Pending",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.980281,40.727127 ]
+     },
+     "properties": {
+     "restaurant_name":"Gnocco",
+     "restaurant_address":"337 EAST 10 STREET, NEW YORK, NY, 10009",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9941166,40.7124226 ]
+     },
+     "properties": {
+     "restaurant_name":"Golden Diner",
+     "restaurant_address":"123 MADISON STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.987662,40.7164182 ]
+     },
+     "properties": {
+     "restaurant_name":"Grand Street Pizza",
+     "restaurant_address":"384 GRAND STREET, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.990062,40.71892367 ]
+     },
+     "properties": {
+     "restaurant_name":"Grey Lady",
+     "restaurant_address":"77 DELANCEY STREET, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98196988,40.7279078 ]
+     },
+     "properties": {
+     "restaurant_name":"Horus Café",
+     "restaurant_address":"293 EAST 10 STREET, NEW YORK, NY, 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9814587,40.7245387 ]
+     },
+     "properties": {
+     "restaurant_name":"Horus Kebab House",
+     "restaurant_address":"93 AVENUE B, NEW YORK, NY, 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.990958,40.72107735 ]
+     },
+     "properties": {
+     "restaurant_name":"Jadis",
+     "restaurant_address":"42 RIVINGTON STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9903953,40.7141557 ]
+     },
+     "properties": {
+     "restaurant_name":"Jajaja Plantas Mexicana",
+     "restaurant_address":"162 EAST BROADWAY, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99007293,40.717987 ]
+     },
+     "properties": {
+     "restaurant_name":"Kalye",
+     "restaurant_address":"251 BROOME STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.986415,40.730634 ]
+     },
+     "properties": {
+     "restaurant_name":"Kanoyama",
+     "restaurant_address":"175 2 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98390372,40.72600465 ]
+     },
+     "properties": {
+     "restaurant_name":"Kazuza",
+     "restaurant_address":"107 AVENUE A, NEW YORK, NY, 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9918059,40.7143643 ]
+     },
+     "properties": {
+     "restaurant_name":"Kiki's Grill & Rotisserie",
+     "restaurant_address":"121 DIVISION STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.989881,40.725867 ]
+     },
+     "properties": {
+     "restaurant_name":"Kona Coffee and Company",
+     "restaurant_address":"57 2 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9888536,40.7165178 ]
+     },
+     "properties": {
+     "restaurant_name":"Kossars & Beyond",
+     "restaurant_address":"367 GRAND STREET, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98697045,40.7187462 ]
+     },
+     "properties": {
+     "restaurant_name":"La Contenta LES",
+     "restaurant_address":"102 NORFOLK ST, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.990967,40.714707 ]
+     },
+     "properties": {
+     "restaurant_name":"Le Dive",
+     "restaurant_address":"37 CANAL STREET, NEW YORK, NY, 10002",
+     "license_status":"Denied by City Council",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9887381,40.7135855 ]
+     },
+     "properties": {
+     "restaurant_name":"Les Enfants de Boheme",
+     "restaurant_address":"173 HENRY STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99087742,40.72809456 ]
+     },
+     "properties": {
+     "restaurant_name":"Librae Bakery",
+     "restaurant_address":"35 COOPER SQUARE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98859932,40.7237508 ]
+     },
+     "properties": {
+     "restaurant_name":"Lil Frankie's Grocery",
+     "restaurant_address":"21 1 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98850065,40.72360365 ]
+     },
+     "properties": {
+     "restaurant_name":"Lil Frankie's Pizza",
+     "restaurant_address":"19 1 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9904272,40.7143288 ]
+     },
+     "properties": {
+     "restaurant_name":"Little Canal",
+     "restaurant_address":"26 CANAL STREET, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.985542,40.731171 ]
+     },
+     "properties": {
+     "restaurant_name":"Little Poland Restaurant",
+     "restaurant_address":"200 2 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99082,40.724275 ]
+     },
+     "properties": {
+     "restaurant_name":"Little Rebel",
+     "restaurant_address":"19 2 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9926389,40.71826055 ]
+     },
+     "properties": {
+     "restaurant_name":"Little Wayla",
+     "restaurant_address":"100 FORSYTH STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99287157,40.7212191 ]
+     },
+     "properties": {
+     "restaurant_name":"Loreley",
+     "restaurant_address":"7 RIVINGTON STREET, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.988076,40.72334135 ]
+     },
+     "properties": {
+     "restaurant_name":"Lucien",
+     "restaurant_address":"14 1 AVENUE, NEW YORK, NY, 10009",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.986019,40.729337 ]
+     },
+     "properties": {
+     "restaurant_name":"Madame Vo",
+     "restaurant_address":"212 EAST 10 STREET, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.979852,40.7271105 ]
+     },
+     "properties": {
+     "restaurant_name":"Maiden Lane",
+     "restaurant_address":"162 AVENUE B, NEW YORK, NY, 10009",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.986579,40.72981 ]
+     },
+     "properties": {
+     "restaurant_name":"Marinara Pizza",
+     "restaurant_address":"160 2 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9852583,40.7268816 ]
+     },
+     "properties": {
+     "restaurant_name":"Mary O's Irish Soda Bread Shop",
+     "restaurant_address":"93 1/2 EAST 7 STREET, NEW YORK, NY, 10009",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.988167,40.727142 ]
+     },
+     "properties": {
+     "restaurant_name":"Mayamezcal",
+     "restaurant_address":"304 EAST 6 STREET, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99193235,40.7152744 ]
+     },
+     "properties": {
+     "restaurant_name":"Mictlan Mexico",
+     "restaurant_address":"17 ORCHARD STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.983708,40.725985 ]
+     },
+     "properties": {
+     "restaurant_name":"Miss Lily's 7A",
+     "restaurant_address":"109 AVENUE A, NEW YORK, NY, 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98629884,40.7268053 ]
+     },
+     "properties": {
+     "restaurant_name":"Mister Paradise",
+     "restaurant_address":"105 1 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98803,40.725488 ]
+     },
+     "properties": {
+     "restaurant_name":"Monomono",
+     "restaurant_address":"116 EAST 4 STREET, NEW YORK, NY 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.980685,40.729794 ]
+     },
+     "properties": {
+     "restaurant_name":"Motel No Tell",
+     "restaurant_address":"210 AVENUE A, NEW YORK, NY ",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98663841,40.7290931 ]
+     },
+     "properties": {
+     "restaurant_name":"Mudspot",
+     "restaurant_address":"307 EAST 9 STREET, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.983362,40.726121 ]
+     },
+     "properties": {
+     "restaurant_name":"Niagara",
+     "restaurant_address":"112 AVENUE A, NEW YORK, NY, 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.987584,40.72524245 ]
+     },
+     "properties": {
+     "restaurant_name":"Non LA",
+     "restaurant_address":"128 EAST 4 STREET, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.983339,40.725317 ]
+     },
+     "properties": {
+     "restaurant_name":"Nowon",
+     "restaurant_address":"507 EAST 6 STREET, NEW YORK, NY, 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9901626,40.71773035 ]
+     },
+     "properties": {
+     "restaurant_name":"Orchard Grocer",
+     "restaurant_address":"78 ORCHARD STREET, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9911613,40.7144105 ]
+     },
+     "properties": {
+     "restaurant_name":"Parcelle",
+     "restaurant_address":"135C DIVISION ST, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9832062,40.7210934 ]
+     },
+     "properties": {
+     "restaurant_name":"Parkside Lounge",
+     "restaurant_address":"317 EAST HOUSTON STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.987622,40.732393 ]
+     },
+     "properties": {
+     "restaurant_name":"Penny Farthing Restaurant",
+     "restaurant_address":"103 3 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.991503,40.726897 ]
+     },
+     "properties": {
+     "restaurant_name":"Phebes",
+     "restaurant_address":"359 BOWERY STREET, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.981083,40.72993 ]
+     },
+     "properties": {
+     "restaurant_name":"Phoenix",
+     "restaurant_address":"447 EAST 13 STREET, NEW YORK, NY, 10009",
+     "license_status":"License Pending",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9877925,40.724496 ]
+     },
+     "properties": {
+     "restaurant_name":"Rake Wine Bar",
+     "restaurant_address":"45 1 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.986657,40.726503 ]
+     },
+     "properties": {
+     "restaurant_name":"Raku",
+     "restaurant_address":"342 EAST 6 STREET, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9896907,40.7293054 ]
+     },
+     "properties": {
+     "restaurant_name":"Ray's Pizza Bagel Café",
+     "restaurant_address":"2 SAINT MARKS PLACE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99252688,40.72112345 ]
+     },
+     "properties": {
+     "restaurant_name":"Ray's  ",
+     "restaurant_address":"177 CHRYSTIE STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99126967,40.716326 ]
+     },
+     "properties": {
+     "restaurant_name":"Reception Bar",
+     "restaurant_address":"45 ORCHARD STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.990645,40.724938 ]
+     },
+     "properties": {
+     "restaurant_name":"Rosie's",
+     "restaurant_address":"29 EAST 2 STREET, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.988589,40.731055 ]
+     },
+     "properties": {
+     "restaurant_name":"Ruby's Café",
+     "restaurant_address":"55 3 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.988379,40.726638 ]
+     },
+     "properties": {
+     "restaurant_name":"Rynn Restaurant and Bar",
+     "restaurant_address":"309 EAST 5 STREET, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.980215,40.72454 ]
+     },
+     "properties": {
+     "restaurant_name":"Sake Bar Satsko",
+     "restaurant_address":"202 EAST 7 STREET, NEW YORK, NY, 10009",
+     "license_status":"License Pending",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.988035,40.731719 ]
+     },
+     "properties": {
+     "restaurant_name":"Sammy L Coffee",
+     "restaurant_address":"83 3 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.988359,40.72796 ]
+     },
+     "properties": {
+     "restaurant_name":"San Marzano",
+     "restaurant_address":"117 2 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9835075,40.73023933 ]
+     },
+     "properties": {
+     "restaurant_name":"Sarita's Mac and Cheese",
+     "restaurant_address":"197 1 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9864184,40.7263723 ]
+     },
+     "properties": {
+     "restaurant_name":"Schmuck",
+     "restaurant_address":"97 1 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.988533,40.7199767 ]
+     },
+     "properties": {
+     "restaurant_name":"Set L.E.S.",
+     "restaurant_address":"127 LUDLOW STREET, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99688095,40.7156459 ]
+     },
+     "properties": {
+     "restaurant_name":"Shinsen",
+     "restaurant_address":"44 BOWERY, NEW YORK, NY, 10013",
+     "license_status":"License Pending",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.981531,40.729275 ]
+     },
+     "properties": {
+     "restaurant_name":"SMOR",
+     "restaurant_address":"441 EAST 12 STREET, NEW YORK, NY, 10009",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.981726,40.729357 ]
+     },
+     "properties": {
+     "restaurant_name":"SMOR Bakery",
+     "restaurant_address":"437 EAST 12 STREET, NEW YORK, NY, 10009",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99001898,40.7223269 ]
+     },
+     "properties": {
+     "restaurant_name":"Spaghetti Incident",
+     "restaurant_address":"231 ELDRIDGE STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98725898,40.7266835 ]
+     },
+     "properties": {
+     "restaurant_name":"Spicy Moon",
+     "restaurant_address":"328 E 6TH ST, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99244082,40.7233999 ]
+     },
+     "properties": {
+     "restaurant_name":"Spicy Moon Bowery",
+     "restaurant_address":"265 BOWERY, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9901813,40.7180011 ]
+     },
+     "properties": {
+     "restaurant_name":"Sunday to Sunday",
+     "restaurant_address":"88 ORCHARD STREET, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9852135,40.72296305 ]
+     },
+     "properties": {
+     "restaurant_name":"Supper",
+     "restaurant_address":"156 EAST 2 STREET, NEW YORK, NY, 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.987189,40.729565 ]
+     },
+     "properties": {
+     "restaurant_name":"The Copper Still",
+     "restaurant_address":"151 2 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98524328,40.7272103 ]
+     },
+     "properties": {
+     "restaurant_name":"The Grafton Public House",
+     "restaurant_address":"126 1 AVENUE, NEW YORK, NY, 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.989795,40.725985 ]
+     },
+     "properties": {
+     "restaurant_name":"The Gray Mare",
+     "restaurant_address":"61 2 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9862969,40.7265846 ]
+     },
+     "properties": {
+     "restaurant_name":"The Headless Widow",
+     "restaurant_address":"99 1 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.985375,40.7285603 ]
+     },
+     "properties": {
+     "restaurant_name":"The Immigrant NYC",
+     "restaurant_address":"341 EAST 9 STREET, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.990562,40.727568 ]
+     },
+     "properties": {
+     "restaurant_name":"The Scratcher Café",
+     "restaurant_address":"209 EAST 5 STREET, NEW YORK, NY 10003",
+     "license_status":"License Issued",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.988589,40.731055 ]
+     },
+     "properties": {
+     "restaurant_name":"The Smith",
+     "restaurant_address":"55 3 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.989868,40.7178683 ]
+     },
+     "properties": {
+     "restaurant_name":"The Ten Bells",
+     "restaurant_address":"247 BROOME STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.989775,40.732983 ]
+     },
+     "properties": {
+     "restaurant_name":"Think Coffee",
+     "restaurant_address":"123 4 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99050805,40.71431545 ]
+     },
+     "properties": {
+     "restaurant_name":"Tolo",
+     "restaurant_address":"28 CANAL STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9889387,40.7204343 ]
+     },
+     "properties": {
+     "restaurant_name":"Trapizzino",
+     "restaurant_address":"144 ORCHARD STREET, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.991471,40.71538675 ]
+     },
+     "properties": {
+     "restaurant_name":"Treasure Club",
+     "restaurant_address":"22 ORCHARD STREET, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98296523,40.72400225 ]
+     },
+     "properties": {
+     "restaurant_name":"Tuome",
+     "restaurant_address":"536 EAST 5 STREET, NEW YORK, NY, 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98639043,40.72628429 ]
+     },
+     "properties": {
+     "restaurant_name":"Upstate Craft Beer & Oyster Bar",
+     "restaurant_address":"95 1 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98693709,40.71885625 ]
+     },
+     "properties": {
+     "restaurant_name":"Vallarta Tropical",
+     "restaurant_address":"106 NORFOLK STREET, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.987223,40.729044 ]
+     },
+     "properties": {
+     "restaurant_name":"Veselka Restaurant",
+     "restaurant_address":"144 SECOND AVENUE, NEW YORK, NY, 10003",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99000915,40.7224451 ]
+     },
+     "properties": {
+     "restaurant_name":"Victoria!",
+     "restaurant_address":"235 ELDRIDGE STREET, NEW YORK, NY, 10002",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9827364,40.72750935 ]
+     },
+     "properties": {
+     "restaurant_name":"Village Square Pizza",
+     "restaurant_address":"147 AVENUE A, NEW YORK, NY, 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.981963,40.728378 ]
+     },
+     "properties": {
+     "restaurant_name":"Westville",
+     "restaurant_address":"173 AVENUE A, NEW YORK, NY, 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"both"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9997677,40.71649025 ]
+     },
+     "properties": {
+     "restaurant_name":"Whiskey Tavern",
+     "restaurant_address":"79 BAXTER ST, NEW YORK, NY 10013",
+     "license_status":"License Issued",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.98857,40.727054 ]
+     },
+     "properties": {
+     "restaurant_name":"Wonderland Bar",
+     "restaurant_address":"96 2 AVENUE, NEW YORK, NY, 10003",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9899594,40.7139499 ]
+     },
+     "properties": {
+     "restaurant_name":"Wu's Wonton King",
+     "restaurant_address":"165 EAST BROADWAY, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"sidewalk"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.9835991,40.7262028 ]
+     },
+     "properties": {
+     "restaurant_name":"Yuca Bar & Restaurant",
+     "restaurant_address":"111 AVENUE A, NEW YORK, NY, 10009",
+     "license_status":"Conditional Approval to Operate",
+     "license_type":"roadway"
+     }
+   },
+   {
+     "type": "Feature",
+     "geometry": {
+        "type": "Point",
+        "coordinates":  [ -73.99005657,40.717982 ]
+     },
+     "properties": {
+     "restaurant_name":"Zest Sushi",
+     "restaurant_address":"249 BROOME ST, NEW YORK, NY, 10002",
+     "license_status":"License Pending",
+     "license_type":"roadway"
+     }
+   }
+ ]
+ };
