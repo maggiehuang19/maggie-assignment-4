@@ -52,6 +52,7 @@ const map = new mapboxgl.Map({
   maxZoom: 17,
 });
 
+// Community Board Boundary
 map.on('load', () => {
   map.addSource('cbBoundary', {
     type: 'geojson',
@@ -72,6 +73,7 @@ map.on('load', () => {
   const outer = turf.bboxPolygon([-72, -74, 40.8, 40.6]);
   const mask = turf.difference(outer, cbBoundary);
 
+  // Add mask layer
   map.addSource('mask', {
     type: 'geojson',
     data: mask
@@ -92,6 +94,7 @@ map.on('load', () => {
     feature.id = feature.id || index;
   });
 
+  // Add markers for each restaurant
   map.addSource('restaurants', {
     type: 'geojson',
     data: restaurantData
