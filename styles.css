@@ -49,7 +49,7 @@ body {
     top: 20px;
     left: 20px;
     width: 250px;
-    height: 175px; /* 🔒 Fixed height */
+    height: auto;
     background: white;
     border: 1px solid #ccc;
     padding: 15px;
@@ -86,6 +86,7 @@ body {
   
   .splash-box {
     background-color: #fff;
+    font-size: 12px;
     border-radius: 12px;
     padding: 30px 40px;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
@@ -117,7 +118,7 @@ body {
 /* Loader text */
 .loader {
   text-align: center;
-  font-size: 24px;
+  font-size: 12px;
   color: #333;
 }
   
@@ -204,6 +205,7 @@ body {
   cursor: pointer;
   width: 200px;
   font-family: 'Helvetica', sans-serif;
+  font-weight: bold;
 }
 
 /* Style for the bottom button */
@@ -216,9 +218,25 @@ body {
   cursor: pointer;
   width: 200px;
   font-family: 'Helvetica', sans-serif;
+  font-weight: bold;
 
 }
+
+.custom-button {
+  background-color: #306e2f;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  width: 100%;
+  margin-top: 15px;
+}
+
   /* Ensure any button or legend elements (like filter buttons) are behind the mask */
 #legend, #toggleSidebar, .button-container{
   z-index: 1; /* Lower than splash and mask */
 }
+
+

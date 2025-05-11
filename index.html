@@ -7,6 +7,8 @@
   <title>Outdoor Dining in Manhattan Community Board 3</title>
   <link rel="stylesheet" href="styles.css">
   <link href="https://api.mapbox.com/mapbox-gl-js/v3.11.0/mapbox-gl.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+
 </head>
 
 <body>
@@ -28,7 +30,7 @@
       </div>
     </div>
     <!-- Mask element to block the content behind -->
-<div class="mask"></div>
+    <div class="mask"></div>
   </div>
 
   <!-- Sidebar (always visible on the left side) -->
@@ -52,7 +54,7 @@
     </label><br>
     <label>
       <input type="checkbox" class="filter-checkbox" value="both" checked>
-      <span class="color-box" style="background-color: #73348E;"></span> Both
+      <span class="color-box" style="background-color: #70308b;"></span> Roadway & Sidewalk
     </label>
   </div>
 
@@ -69,14 +71,19 @@
   </script>
 
   <div class="button-container">
+
     <!-- Button 1 with link -->
     <a href="https://www.diningoutnyc.info/rules" target="_blank">
-      <button id="top-button">Program Requirements</button>
+      <button id="top-button">Program Rules
+        <i class="fas fa-external-link-alt"></i>
+      </button>
     </a>
-    
+
     <!-- Button 2 with link -->
     <a href="https://diningout.nyc.gov/application/" target="_blank">
-      <button id="bottom-button">Apply Now!</button>
+      <button id="bottom-button">Apply Now!
+        <i class="fas fa-external-link-alt"></i>
+      </button>
     </a>
   </div>
 </body>

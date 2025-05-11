@@ -282,7 +282,7 @@ const restaurantData = {
      "restaurant_name":"886",
      "restaurant_address":"26 ST MARKS PLACE, NEW YORK, NY 10003",
      "license_status":"License Pending",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -321,7 +321,7 @@ const restaurantData = {
      "restaurant_name":"2A",
      "restaurant_address":"25 AVENUE A, NEW YORK, NY 10009",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -347,7 +347,7 @@ const restaurantData = {
      "restaurant_name":"96 Tears",
      "restaurant_address":"110 AVENUE A, NEW YORK, NY 10009",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -373,7 +373,7 @@ const restaurantData = {
      "restaurant_name":"A10 Kitchen",
      "restaurant_address":"162 AVENUE A, NEW YORK, NY 10009",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -399,7 +399,7 @@ const restaurantData = {
      "restaurant_name":"Ainslie Bowery",
      "restaurant_address":"199 BOWERY, NEW YORK, NY, 10002",
      "license_status":"License Pending",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -594,7 +594,7 @@ const restaurantData = {
      "restaurant_name":"Bronx Brewery",
      "restaurant_address":"64 2 AVENUE, NEW YORK, NY, 10003",
      "license_status":"License Pending",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -685,7 +685,7 @@ const restaurantData = {
      "restaurant_name":"Casetta",
      "restaurant_address":"61 HESTER STREET, NEW YORK, NY, 10002",
      "license_status":"License Pending",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -750,7 +750,7 @@ const restaurantData = {
      "restaurant_name":"Corner Bar/Swan Room",
      "restaurant_address":"54 CANAL STREET, NEW YORK, NY, 10002",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -906,7 +906,7 @@ const restaurantData = {
      "restaurant_name":"Early Terrible NYC",
      "restaurant_address":"303 BROOME STREET, NEW YORK, NY, 10002",
      "license_status":"License Pending",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -1101,7 +1101,7 @@ const restaurantData = {
      "restaurant_name":"Horus Café",
      "restaurant_address":"293 EAST 10 STREET, NEW YORK, NY, 10009",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -1114,7 +1114,7 @@ const restaurantData = {
      "restaurant_name":"Horus Kebab House",
      "restaurant_address":"93 AVENUE B, NEW YORK, NY, 10009",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -1153,7 +1153,7 @@ const restaurantData = {
      "restaurant_name":"Kalye",
      "restaurant_address":"251 BROOME STREET, NEW YORK, NY, 10002",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -1179,7 +1179,7 @@ const restaurantData = {
      "restaurant_name":"Kazuza",
      "restaurant_address":"107 AVENUE A, NEW YORK, NY, 10009",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -1192,7 +1192,7 @@ const restaurantData = {
      "restaurant_name":"Kiki's Grill & Rotisserie",
      "restaurant_address":"121 DIVISION STREET, NEW YORK, NY, 10002",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -1244,7 +1244,7 @@ const restaurantData = {
      "restaurant_name":"Le Dive",
      "restaurant_address":"37 CANAL STREET, NEW YORK, NY, 10002",
      "license_status":"Denied by City Council",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -1296,7 +1296,7 @@ const restaurantData = {
      "restaurant_name":"Lil Frankie's Pizza",
      "restaurant_address":"19 1 AVENUE, NEW YORK, NY, 10003",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -1465,7 +1465,7 @@ const restaurantData = {
      "restaurant_name":"Miss Lily's 7A",
      "restaurant_address":"109 AVENUE A, NEW YORK, NY, 10009",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -1478,7 +1478,7 @@ const restaurantData = {
      "restaurant_name":"Mister Paradise",
      "restaurant_address":"105 1 AVENUE, NEW YORK, NY, 10003",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -1504,7 +1504,7 @@ const restaurantData = {
      "restaurant_name":"Motel No Tell",
      "restaurant_address":"210 AVENUE A, NEW YORK, NY ",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -1530,7 +1530,7 @@ const restaurantData = {
      "restaurant_name":"Niagara",
      "restaurant_address":"112 AVENUE A, NEW YORK, NY, 10009",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -1634,7 +1634,7 @@ const restaurantData = {
      "restaurant_name":"Phoenix",
      "restaurant_address":"447 EAST 13 STREET, NEW YORK, NY, 10009",
      "license_status":"License Pending",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -1699,7 +1699,7 @@ const restaurantData = {
      "restaurant_name":"Reception Bar",
      "restaurant_address":"45 ORCHARD STREET, NEW YORK, NY, 10002",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -1712,7 +1712,7 @@ const restaurantData = {
      "restaurant_name":"Rosie's",
      "restaurant_address":"29 EAST 2 STREET, NEW YORK, NY, 10003",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -1907,7 +1907,7 @@ const restaurantData = {
      "restaurant_name":"Sunday to Sunday",
      "restaurant_address":"88 ORCHARD STREET, NEW YORK, NY, 10002",
      "license_status":"License Pending",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -2050,7 +2050,7 @@ const restaurantData = {
      "restaurant_name":"Tolo",
      "restaurant_address":"28 CANAL STREET, NEW YORK, NY, 10002",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -2115,7 +2115,7 @@ const restaurantData = {
      "restaurant_name":"Vallarta Tropical",
      "restaurant_address":"106 NORFOLK STREET, NEW YORK, NY, 10002",
      "license_status":"License Pending",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -2128,7 +2128,7 @@ const restaurantData = {
      "restaurant_name":"Veselka Restaurant",
      "restaurant_address":"144 SECOND AVENUE, NEW YORK, NY, 10003",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
@@ -2167,7 +2167,7 @@ const restaurantData = {
      "restaurant_name":"Westville",
      "restaurant_address":"173 AVENUE A, NEW YORK, NY, 10009",
      "license_status":"Conditional Approval to Operate",
-     "license_type":"both"
+     "license_type":"Roadway & Sidewalk"
      }
    },
    {
