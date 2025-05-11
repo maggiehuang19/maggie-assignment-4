@@ -156,11 +156,17 @@ checkboxes.forEach(cb => {
       .filter(cb => cb.checked)
       .map(cb => cb.value);
 
+    let filter;
+
     if (selectedTypes.length > 0) {
-      map.setFilter('restaurant-points', ['in', ['get', 'license_type'], ['literal', selectedTypes]]);
+      filter = ['in', 'license_type', ...selectedTypes];
     } else {
-      map.setFilter('restaurant-points', ['in', 'license_type', '']);
+      // Hide all markers
+      filter = ['==', 'license_type', ''];
     }
+
+    map.setFilter('restaurant-points', filter);
+    map.setFilter('restaurant-halo', filter);
   });
 });
 
