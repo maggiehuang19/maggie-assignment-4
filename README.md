@@ -21,3 +21,5 @@ License Pending: DOT has reviewed the restaurant's application and has deemed it
 License Issued: The restaurant's application has been registered with the Comptroller's Office and has been issued their Dining Out NYC license, which is valid for four years.
 
 Conditional Approval to Operate: The restaurant's application is still in the process of being registered with the Comptroller's Office, but they have been given permission to operate their outdoor dining structure(s) while they wait for their Dining Out NYC license to be issued.
+
+Denied by City Council: The restaurant has been subject to a City Council hearing and vote, and has been denied the permission to receive a Dining Out NYC license.
